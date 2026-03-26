@@ -68,14 +68,14 @@ zan/
 ### 构建
 
 ```powershell
-cd D:\Workspace\codex\zan
+cd zan
 .\build.ps1
 ```
 
 ### 运行
 
 ```powershell
-cd D:\Workspace\codex\zan\build
+cd zan\build
 .\shubiaoguiji.exe
 ```
 
