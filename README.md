@@ -68,15 +68,15 @@ zan/
 ### 构建
 
 ```powershell
-cd zan
+# 在仓库根目录执行
 .\build.ps1
 ```
 
 ### 运行
 
 ```powershell
-cd zan\build
-.\shubiaoguiji.exe
+# 在仓库根目录执行
+.\build\shubiaoguiji.exe
 ```
 
 启动后在系统托盘右键图标即可打开设置菜单。
