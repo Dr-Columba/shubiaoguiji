@@ -1,6 +1,9 @@
 _analysis_zanzomouse/
 build/
 dist/
-*.pdb
+.vs/
 *.obj
+*.pdb
+*.ilk
+*.exp
 *.log
