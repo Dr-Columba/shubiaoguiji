@@ -1,4 +1,6 @@
-
 _analysis_zanzomouse/
-
-_analysis_zanzomouse/
+build/
+dist/
+*.pdb
+*.obj
+*.log
